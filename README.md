@@ -1,4 +1,9 @@
 # ML-House_Price_Prediction
+# Liabraries required
+numpy
+pandas
+matplotlib
+sklearn
 a simple house price prediction program using Linear Regression
 
 this simple program can be used for house price prediction using linear regression in the program we are using a small dataset of 2*5 2 rows and 5 columns 
